@@ -1,3 +1,7 @@
-### Open Threat Informed Detection Engineering
+# OpenTide
 
-OpenTide is the open source reference for starting and advanced Detection Engineering team looking to adopt Detection-as-Code, Threat & Detection Modelling, and modern DevOps workflows.
+DetectionOps engine and companion repositories for threat-informed detection-as-code.
+
+- Site: [opentide.org](https://opentide.org)
+- Package: [`pip install opentide`](https://pypi.org/project/opentide/)
+- Org profile and brand assets live in this repository (`profile/`, `assets/`).
