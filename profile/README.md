@@ -9,7 +9,7 @@
 OpenTide is the DetectionOps engine for detection-as-code — validate, generate, deploy, and document rules across seven security platforms.
 
 ```bash
-pip install opentide
+pip install opentide==0.1.0
 opentide setup
 opentide validate --strict
 ```
@@ -27,7 +27,7 @@ Docs, blog, and specs: **[opentide.org](https://opentide.org)**
 
 `opentide setup` scaffolds a detection repository, CI (GitHub, GitLab, Azure DevOps), MCP, and skills. You do not start from an InitTide template.
 
-If you still have a pinned CoreTide submodule, it keeps resolving. New work goes on the package. Migration: [opentide.org/docs/usage/migration/](https://opentide.org/docs/usage/migration/).
+If you still have a pinned CoreTide submodule, it keeps resolving. New work goes on the package — first public release **0.1.0**. Notes: [opentide.org/docs/usage/releases/](https://opentide.org/docs/usage/releases/). Migration: [opentide.org/docs/usage/migration/](https://opentide.org/docs/usage/migration/).
 
 Brand assets (logo, icon, badges): [`assets/`](assets/).
 
