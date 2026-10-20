@@ -1,4 +1,4 @@
-# OpenTide brand assets
+# opentide brand assets
 
 Pantone Reflex Blue `#001489` · Inter SemiBold · Material Tsunami icon.
 

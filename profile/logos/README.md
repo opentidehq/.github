@@ -1,4 +1,4 @@
-# OpenTide logos
+# opentide logos
 
 Brand assets live at the repo root: **[`assets/`](../assets/)**
 
