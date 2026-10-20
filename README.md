@@ -1,4 +1,4 @@
-# OpenTide
+# opentide
 
 DetectionOps engine and companion repositories for threat-informed detection-as-code.
 
