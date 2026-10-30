@@ -6,7 +6,7 @@
   <strong>Open Threat-Informed Detection Engineering</strong>
 </p>
 
-opentide is the DetectionOps engine for detection-as-code — validate, generate, deploy, and document rules across seven security platforms.
+opentide is spec-driven development for agentic detection engineering. An ontology and a taxonomy tie every detection to the threat it covers, so rules stay aligned as people and agents write them. opentide validates, generates, deploys and documents them across eight security platforms.
 
 ```bash
 pip install opentide==0.1.0
